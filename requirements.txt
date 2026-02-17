@@ -1,0 +1,6 @@
+langchain
+langchain-openai
+databricks-sql-connector
+openai
+python-dotenv
+sqlalchemy-databricks
