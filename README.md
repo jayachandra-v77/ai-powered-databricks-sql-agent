@@ -59,5 +59,5 @@ The AI handles everything automatically.
 - Deploy as web app
 - Add role-based query control
 
-## 👨‍💻 Author
-Jayachandra
+### 👨‍💻 Author
+  Jayachandra
